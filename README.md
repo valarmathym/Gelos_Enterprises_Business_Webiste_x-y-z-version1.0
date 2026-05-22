@@ -92,7 +92,7 @@ Production-ready Version 1.0 release.
 ---
 
 ## Author
-[Your Name]
+Valarmathy
 
 ---
 
